@@ -211,18 +211,7 @@ img { max-width: 100%; display: block; }
   font-size: 12px;
   color: var(--grey);
 }
-.choices-line {
-  margin: 8px 0 0;
-  font-size: 12px;
-  color: var(--grey);
-}
-.choices-line span {
-  color: var(--green);
-  font-size: 10px;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  margin-right: 8px;
-}
+
 
 /* sections */
 .section {
